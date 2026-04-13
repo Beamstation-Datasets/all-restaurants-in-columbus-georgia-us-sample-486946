@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant intelligence dataset for Columbus, Georgia, a growing city of 206k+. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
+  "config_name": "All Restaurants in Columbus, Georgia, US",
+  "export_job_id": "7166b002-58b4-421b-adcd-1a010450b307",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 486946,
+  "location_name": "Columbus",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-columbus-georgia-us-sample-486946",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/486946/beamstation_486946_restaurants-us-ga_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 69,
+  "sample_sha256": "edae3f2cabba5f9ab9923d1c8bb6ea0447c3faed78e73e269e2c6e6b7b13dc09",
+  "sample_size_bytes": 254415,
+  "total_records": 691,
+  "updated_at": "2026-04-09T11:22:42.181980+00:00"
+}
