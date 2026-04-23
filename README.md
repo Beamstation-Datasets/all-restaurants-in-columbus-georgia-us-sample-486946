@@ -1,6 +1,6 @@
 # All Restaurants in Columbus, Georgia, US
 
-> Free BeamStation sample export with 65 rows and masked direct-contact fields.
+> Free BeamStation sample export with 44 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `486946` |
 | Location | Columbus |
 | Category | Restaurants |
-| Full dataset size | 655 records |
-| Free sample size | 65 records (9.92%) |
-| Last export | 2026-04-16T11:17:17.037424+00:00 |
+| Full dataset size | 441 records |
+| Free sample size | 44 records (9.98%) |
+| Last export | 2026-04-23T10:55:24.837365+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-columbus-georgia-us-sample-486946/releases/download/sample-latest/beamstation_486946_restaurants-us-ga_SAMPLE_DIST.csv) |
 
 ## What is in this sample
