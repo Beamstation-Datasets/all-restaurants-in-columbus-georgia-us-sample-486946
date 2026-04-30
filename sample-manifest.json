@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4acafcb3-4f13-4e7d-b6a0-f08663763c9a",
+  "export_job_id": "91d3cd43-efc5-4f9e-9145-51e998f9418c",
   "id_short": 486946,
-  "published_at": "2026-04-23T19:39:24Z",
+  "published_at": "2026-04-30T19:33:50Z",
   "repo_name": "all-restaurants-in-columbus-georgia-us-sample-486946",
   "sample_asset_name": "beamstation_486946_restaurants-us-ga_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/486946/beamstation_486946_restaurants-us-ga_SAMPLE_DIST.csv",
-  "sample_records": 44,
-  "sample_sha256": "12ecfb216c7f5fddc98bfe89403b1216745717226d800127b3d5002420ed5f57",
-  "sample_size_bytes": 180602,
-  "total_records": 441
+  "sample_records": 70,
+  "sample_sha256": "81001487686647660a381f7b9cb9359ad42409ce2638b15b957c0846426cc66b",
+  "sample_size_bytes": 233805,
+  "total_records": 703
 }
